@@ -1,0 +1,10 @@
+.mat-accordion{
+    display: grid;
+    margin: auto;
+    width: 50%;
+    margin-top: 2rem;
+}
+
+.mat-expansion-panel-header-title{
+    color: whitesmoke
+}
